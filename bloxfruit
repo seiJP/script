@@ -78,30 +78,3 @@ local Button = Tab:CreateButton({
 	end,
 })
 
-local Button = TabLINK:CreateButton({
-	Name = "hohohub Key",
-	Callback = function()
-		https://hohohubv-ac90f67762c4.herokuapp.com/getkey
-	end,
-})
-
-local Button = TabLINK:CreateButton({
-	Name = "zenhub key",
-	Callback = function()
-		https://pandadevelopment.net/getkey?service=zenhub
-	end,
-})
-
-local Button = TabLINK:CreateButton({
-	Name = "raitohub key",
-	Callback = function()
-		https://pandadevelopment.net/startkey.html?service=raitohub
-	end,
-})
-
-local Button = TabLINK:CreateButton({
-	Name = "Belook hub Key",
-	Callback = function()
-		https://linkvertise.com/670571/belook-hub-key-system/1
-	end,
-})
