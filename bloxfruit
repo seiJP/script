@@ -8,11 +8,8 @@ local Window = Rayfield:CreateWindow({
 })
 local Tab = Window:CreateTab("Main")
 local Section = Tab:CreateSection("Main")
-local TabLINK = Window:CreateTab("KEY LINK")
-local SectionLINK = TabURL:CreateSection("KEY LINK")
 
 local Label = Tab:CreateLabel("thanks for using")
-local Label = TabLINK:CreateLabel("Thanks for using")
 
 local Button = Tab:CreateButton({
 	Name = "Hoho Hub V3 (need key)",
